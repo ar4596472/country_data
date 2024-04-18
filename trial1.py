@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 #import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 
 # Load your clustered dataset
 clustered_dataset = pd.read_csv("Country_data.csv")
